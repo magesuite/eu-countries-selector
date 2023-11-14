@@ -4,4 +4,3 @@
     'MageSuite_EuCountriesSelector',
     __DIR__
 );
-
